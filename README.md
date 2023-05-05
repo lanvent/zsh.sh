@@ -36,7 +36,7 @@ Now: support **Ubuntu** + **CentOS** + **Arch** + **Alpine**(part of) + **Window
 PS: you need execute `bash zsh.sh && source ${ZDOTDIR:-$HOME}/.zshrc` by twice
 
 ```bash
-wget https://raw.github.com/iofu728/zsh.sh/master/zsh.sh
+wget https://raw.github.com/lanvent/zsh.sh/master/zsh.sh
 bash zsh.sh && source ${ZDOTDIR:-$HOME}/.zshrc
 bash zsh.sh && source ${ZDOTDIR:-$HOME}/.zshrc
 ```
