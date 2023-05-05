@@ -18,8 +18,8 @@ while [[ "$#" -gt 0 ]]; do
 done
 
 # some constant params
-FD_VERSION=8.2.1
-BAT_VERSION=0.18.0
+FD_VERSION=8.7.0
+BAT_VERSION=0.23.0
 ZSH_HL=zsh-syntax-highlighting
 ZSH_AS=zsh-autosuggestions
 ZSH_CUSTOM=${ZSH}/custom
